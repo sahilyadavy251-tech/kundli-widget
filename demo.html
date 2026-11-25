@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kundli widget — live demo</title>
+<style>
+  :root{--ink:#3d2410;--gold:#8a5a12;--line:#e8dcc4}
+  *{box-sizing:border-box}
+  body{margin:0;background:#fffdf7;color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.65}
+  .wrap{max-width:720px;margin:0 auto;padding:30px 18px 60px}
+  h1{font-size:25px;margin:0 0 6px;color:#5a2d0c}
+  p.lead{color:#6b4a20;margin:0 0 22px}
+  .card{background:#fdf3e2;border:1px solid var(--line);border-radius:14px;padding:18px;margin:18px 0;display:flex;justify-content:center}
+  pre{background:#2b1d0e;color:#ffe9c2;border-radius:12px;padding:14px;overflow:auto;font-size:12.5px}
+  a{color:var(--gold)}
+  .note{font-size:13px;color:#8a7a5a}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Free kundli widget — live demo</h1>
+  <p class="lead">This page is the demo. The card below is the actual widget, loaded from
+    <code>widget.js</code>.</p>
+
+  <div class="card">
+    <div id="aoa-kundli-widget"></div>
+  </div>
+
+  <h2>Embed code</h2>
+  <pre><code>&lt;div id="aoa-kundli-widget"&gt;&lt;/div&gt;
+&lt;script src="https://sahilrao.in/widget.js" async&gt;&lt;/script&gt;</code></pre>
+
+  <p class="note">No tracking, no cookies. The four fields go straight to
+    <a href="https://sahilrao.in">sahilrao.in</a> in a new tab.</p>
+</div>
+<script src="https://sahilrao.in/widget.js" async></script>
+</body>
+</html>
