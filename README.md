@@ -1,4 +1,4 @@
-# Free Kundli Widget — for any website
+# Sahil Rao — Free Kundli Widget
 
 A tiny (5 KB), dependency-free embeddable **Vedic kundli (birth chart) calculator** widget.
 Drop two lines into any page and your visitors get a working kundli form — no signup, no API key,
@@ -84,6 +84,16 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built by **[Sahil Rao](https://sahilrao.in)** — Vedic astrologer. Free kundli calculator,
-36-gun matching, vimshottari dasha and 65-page PDF reports at
-**[sahilrao.in](https://sahilrao.in)**.
+## About the author
+
+**Sahil Rao** — Vedic astrologer (Hansi, Haryana, India). 1,000+ charts read.
+
+| | |
+|---|---|
+| Website | **[sahilrao.in](https://sahilrao.in)** |
+| Free kundli calculator | [sahilrao.in/free-kundli-calculator.html](https://sahilrao.in/free-kundli-calculator.html) |
+| Embed guide | [sahilrao.in/embed.html](https://sahilrao.in/embed.html) |
+| WhatsApp | +91 93060 09161 |
+| Email | contact@sahilrao.in |
+
+*Sahil Rao — Advanced Occult Astrology*
