@@ -9,7 +9,9 @@ no data leaves their browser.
 <script src="https://sahilrao.in/widget.js" async></script>
 ```
 
-**Live demo:** https://sahilrao.in/embed.html · **Full app:** https://sahilrao.in
+**Live demo:** https://sahilyadavy251-tech.github.io/kundli-widget/demo.html
+**How to embed (full guide):** https://sahilrao.in/embed.html
+**Full app:** https://sahilrao.in
 
 ---
 
